@@ -26,4 +26,4 @@ Running [Elixir Tech Community](https://elixircommunity.in) — 5k+ developers, 
 
 ### Elsewhere
 
-[granth.tech](https://granth.tech) · [GitHub](https://github.com/granth-agarwal) · [LinkedIn](https://linkedin.com/in/granth-agarwal) · [X](https://x.com/heygranth) · [granthcodes@gmail.com](mailto:granthcodes@gmail.com)
+[granth.tech](https://granth.tech) · [GitHub](https://github.com/granth-agarwal) · [LinkedIn](https://linkedin.com/in/granth-agarwal) · [X](https://x.com/granthx) · [granthcodes@gmail.com](mailto:granthcodes@gmail.com)
